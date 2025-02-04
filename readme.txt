@@ -1,7 +1,7 @@
 === Markdown Shortcode ===
 Tags: Shortcode, Markdown
-Stable Tag: 1.0.0
-Version: 1.0.0
+Stable Tag: 1.1.0
+Version: 1.1.0
 Requires at least: 4.9
 Tested up to: 6.7.1
 Requires PHP: 5.6.0

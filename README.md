@@ -32,7 +32,7 @@ will be rendered as :
 You can also call the global helper ``markdown_shortcode``. Exemple:
 
 ```php
-<?php echo markdown_shortcode( 'A **bold word** next to an _italic word_' ); ?>
+<?php echo markdown_shortcode::render_content( 'A **bold word** next to an _italic word_' ); ?>
 ```
 
 will be rendered as :
