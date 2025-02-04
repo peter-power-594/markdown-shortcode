@@ -2,7 +2,8 @@
 
 Register the _markdown_ shortcode to the admin screen so you can use markdown snippets within your HTML blocks whatever the editor you are using.
 
-Depending from the parser used - currently the library from Michel Fortin - the license can conflict with the WordPress.org requirements so the plugin won't be submitted or liste there. Feel free to customize to your own needs.
+Depending from the parser used - currently the library from Michel Fortin - the license can conflict with the WordPress.org requirements so the plugin won't be submitted or listed there.  
+Feel free to customize to your own needs.
 
 ## Install
 
